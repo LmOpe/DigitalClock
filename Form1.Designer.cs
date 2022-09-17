@@ -68,7 +68,7 @@
             this.lblDate.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblDate.Font = new System.Drawing.Font("Digital-7 Italic", 39.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDate.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.lblDate.Location = new System.Drawing.Point(103, 223);
+            this.lblDate.Location = new System.Drawing.Point(66, 223);
             this.lblDate.Name = "lblDate";
             this.lblDate.Size = new System.Drawing.Size(262, 56);
             this.lblDate.TabIndex = 2;
@@ -81,7 +81,7 @@
             this.lblDay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblDay.Font = new System.Drawing.Font("Digital-7 Italic", 39.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDay.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.lblDay.Location = new System.Drawing.Point(381, 223);
+            this.lblDay.Location = new System.Drawing.Point(344, 223);
             this.lblDay.Name = "lblDay";
             this.lblDay.Size = new System.Drawing.Size(198, 56);
             this.lblDay.TabIndex = 3;
