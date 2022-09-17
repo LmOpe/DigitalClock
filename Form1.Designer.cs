@@ -43,7 +43,8 @@
             this.lblTime.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblTime.Font = new System.Drawing.Font("Digital-7 Italic", 71.99999F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTime.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.lblTime.Location = new System.Drawing.Point(129, 46);
+            this.lblTime.Location = new System.Drawing.Point(108, 39);
+            this.lblTime.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTime.Name = "lblTime";
             this.lblTime.Size = new System.Drawing.Size(238, 98);
             this.lblTime.TabIndex = 0;
@@ -56,7 +57,8 @@
             this.lblSecond.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblSecond.Font = new System.Drawing.Font("Digital-7 Italic", 27.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSecond.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.lblSecond.Location = new System.Drawing.Point(380, 95);
+            this.lblSecond.Location = new System.Drawing.Point(350, 97);
+            this.lblSecond.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSecond.Name = "lblSecond";
             this.lblSecond.Size = new System.Drawing.Size(53, 40);
             this.lblSecond.TabIndex = 1;
@@ -68,7 +70,8 @@
             this.lblDate.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblDate.Font = new System.Drawing.Font("Digital-7 Italic", 39.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDate.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.lblDate.Location = new System.Drawing.Point(66, 223);
+            this.lblDate.Location = new System.Drawing.Point(55, 189);
+            this.lblDate.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDate.Name = "lblDate";
             this.lblDate.Size = new System.Drawing.Size(262, 56);
             this.lblDate.TabIndex = 2;
@@ -81,7 +84,8 @@
             this.lblDay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblDay.Font = new System.Drawing.Font("Digital-7 Italic", 39.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDay.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.lblDay.Location = new System.Drawing.Point(344, 223);
+            this.lblDay.Location = new System.Drawing.Point(335, 189);
+            this.lblDay.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDay.Name = "lblDay";
             this.lblDay.Size = new System.Drawing.Size(198, 56);
             this.lblDay.TabIndex = 3;
@@ -95,14 +99,16 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(5F, 11F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(700, 369);
+            this.ClientSize = new System.Drawing.Size(673, 345);
             this.Controls.Add(this.lblDay);
             this.Controls.Add(this.lblDate);
             this.Controls.Add(this.lblSecond);
             this.Controls.Add(this.lblTime);
+            this.Font = new System.Drawing.Font("Digital-7", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
