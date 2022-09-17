@@ -1,0 +1,30 @@
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\bin\Release\DigitalClock.exe.config
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\bin\Release\DigitalClock.exe
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\bin\Release\DigitalClock.pdb
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.csproj.AssemblyReference.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.csproj.SuggestedBindingRedirects.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.Form1.resources
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.Properties.Resources.resources
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.csproj.GenerateResource.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.csproj.CoreCompileInputs.cache
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.exe
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.pdb
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\bin\Release\DigitalClock.exe.manifest
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\bin\Release\DigitalClock.application
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.exe.manifest
+D:\Muhammed\Desktop\C#\MyProject\Pojects\DigitalClock\obj\Release\DigitalClock.application
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\bin\Release\DigitalClock.exe.config
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\bin\Release\DigitalClock.exe.manifest
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\bin\Release\DigitalClock.application
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\bin\Release\DigitalClock.exe
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\bin\Release\DigitalClock.pdb
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.csproj.AssemblyReference.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.csproj.SuggestedBindingRedirects.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.Form1.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.Properties.Resources.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.csproj.GenerateResource.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.csproj.CoreCompileInputs.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.exe.manifest
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.application
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.exe
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\DigitalClock\obj\Release\DigitalClock.pdb
